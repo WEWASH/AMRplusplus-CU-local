@@ -64,3 +64,6 @@ sbatch AMRplusplus_full.sh
 ```
 
 You're finished!
+
+---
+Developed by Dr Daniel A. Pass (Compass Bioinformatics) for Cardiff University School of Bioisciences WEWASH project (2023/24), from the public AMR++ project.
